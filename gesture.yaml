@@ -1,0 +1,6 @@
+train: train
+val: val
+test: val
+
+nc: 6
+names: [down, left, no_gesture, right, stop, up]

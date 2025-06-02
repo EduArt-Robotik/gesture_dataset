@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "down"
+    },
+    {
+      "id": 1,
+      "name": "left"
+    },
+    {
+      "id": 2,
+      "name": "no_gesture"
+    },
+    {
+      "id": 3,
+      "name": "right"
+    },
+    {
+      "id": 4,
+      "name": "stop"
+    },
+    {
+      "id": 5,
+      "name": "up"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

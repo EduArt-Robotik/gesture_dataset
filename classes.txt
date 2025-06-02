@@ -1,0 +1,6 @@
+down
+left
+no_gesture
+right
+stop
+up
