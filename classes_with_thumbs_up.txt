@@ -1,0 +1,7 @@
+down
+left
+no_gesture
+right
+stop
+thumbs_up
+up

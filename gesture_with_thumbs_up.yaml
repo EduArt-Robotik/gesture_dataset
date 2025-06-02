@@ -1,0 +1,6 @@
+train: train_with_thumbs_up
+val: val_with_thumbs_up
+test: val_with_thumbs_up
+
+nc: 7
+names: [down, left, no_gesture, right, stop, thumbs_up, up]
